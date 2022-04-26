@@ -19,10 +19,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Pamela/Desktop/progra3 0200/examen3/Examen3/proyecto/vsExamen/Data/Usuarios/Usuarios.razor]
-build_metadata.AdditionalFiles.TargetPath = RGF0YVxVc3Vhcmlvc1xVc3Vhcmlvcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Pamela/Desktop/progra3 0200/examen3/Examen3/proyecto/vsExamen/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Pamela/Desktop/progra3 0200/examen3/Examen3/proyecto/vsExamen/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pamela/Desktop/progra3 0200/examen3/Examen3/proyecto/vsExamen/Pages/Usuarios/usuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3NcdXN1YXJpby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Pamela/Desktop/progra3 0200/examen3/Examen3/proyecto/vsExamen/Shared/SurveyPrompt.razor]
