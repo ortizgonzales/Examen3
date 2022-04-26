@@ -1,0 +1,12 @@
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\bin\Debug\net6.0\modelos.deps.json
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\bin\Debug\net6.0\modelos.dll
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\bin\Debug\net6.0\modelos.pdb
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\modelos.csproj.AssemblyReference.cache
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\modelos.AssemblyInfoInputs.cache
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\modelos.AssemblyInfo.cs
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\modelos.csproj.CoreCompileInputs.cache
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\modelos.dll
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\refint\modelos.dll
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\modelos.pdb
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\modelos\obj\Debug\net6.0\ref\modelos.dll

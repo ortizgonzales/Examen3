@@ -1,0 +1,5 @@
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
