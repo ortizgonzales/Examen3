@@ -3,3 +3,13 @@ C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\ne
 C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
 C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.AssemblyInfo.cs
 C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\bin\Debug\net6.0\Datos.deps.json
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\bin\Debug\net6.0\Datos.dll
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\bin\Debug\net6.0\Datos.pdb
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\bin\Debug\net6.0\modelos.dll
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\bin\Debug\net6.0\modelos.pdb
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.csproj.CopyComplete
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.dll
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\refint\Datos.dll
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\Datos.pdb
+C:\Users\Pamela\Desktop\progra3 0200\examen3\Examen3\proyecto\Datos\obj\Debug\net6.0\ref\Datos.dll

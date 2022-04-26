@@ -6,9 +6,9 @@
          
         public string CadenaConexion { get; }
 
-        public MySQLConfiguration(string cadenaConexion)
+        public MySQLConfiguration(string codenaConexion)
         {
-            CadenaConexion = cadenaConexion;
+            CadenaConexion = codenaConexion;
         }
 
     }

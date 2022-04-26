@@ -53,7 +53,7 @@ public class UsuarioRepositorio : IUsuarioRepositorio
         {
             using MySqlConnection conexion = Conexion();
             await conexion.OpenAsync();
-            string sql = "SELECT * FROM usuario WHERE Codigo = @Codigo;";
+            string sql = "SELECT * FROM usuario WHERE cod = @cod;";
             user = await conexion.QueryFirstAsync<Usuario>(sql, new { codigo });
         }
         catch (Exception)
@@ -75,9 +75,9 @@ public class UsuarioRepositorio : IUsuarioRepositorio
             {
                 using MySqlConnection conexion = Conexion();
                 await conexion.OpenAsync();
-                string sql = "SELECT 1 FROM usuario WHERE Codigo = @Codigo AND Clave = @Clave;";
-                valido = await conexion.ExecuteScalarAsync<bool>(sql, new { login.Codigo, login.Clave });
-            }
+                string sql = "SELECT 1 FROM usuario WHERE cod = @cod AND contra = @contra;";
+                valido = await conexion.ExecuteScalarAsync<bool>(sql, new { login.cod, login.contra });
+        }
             catch (Exception ex)
             {
             }
